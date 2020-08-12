@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 # Cartographer[web] HTB walkthrough
 
 <!-- wp:paragraph -->
