@@ -15,7 +15,7 @@ Github: [xscorp](https://github.com/xscorp)
 
 Twitter: [xscorp7](https://twitter.com/xscorp)
 
-Email: [xscorp@protonmail.com](xscorp@protonmail.com)
+Email: [xscorp@protonmail.com](mailto:xscorp@protonmail.com)
 
 Linkedin: [Shashank Barthwal](https://www.linkedin.com/in/shashank-barthwal)
 
