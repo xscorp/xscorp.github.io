@@ -12,8 +12,13 @@ Apart from computers, I enjoy playing computer games, listening to music and goi
 Let's have some coffee together :)
 
 Github: [xscorp](https://github.com/xscorp)
+
 Twitter: [xscorp7](https://twitter.com/xscorp)
+
 Email: [](xscorp@protonmail.com)
+
 Linkedin: [Shashank Barthwal](https://www.linkedin.com/in/shashank-barthwal)
-Discord: xscorp#2518
+
 Telegram: [xscorp](https://t.me/xscorp)
+
+Discord: xscorp#2518
