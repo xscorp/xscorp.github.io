@@ -13,7 +13,7 @@ Let's have some coffee together :)
 
 Github: [xscorp](https://github.com/xscorp)
 
-Twitter: [xscorp7](https://twitter.com/xscorp)
+Twitter: [xscorp7](https://twitter.com/xscorp7)
 
 Email: [xscorp@protonmail.com](mailto:xscorp@protonmail.com)
 
