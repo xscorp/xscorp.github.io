@@ -50,4 +50,31 @@ $ ./code
 6
 6
 ```
-df
+Uhhh, why ```0``` and ```3``` is printed on the screen when ```number``` can have a minum value of 6?
+
+## Macro demystified
+
+The macro that was used to find the larger number was
+```c++
+#define max(a,b) ((a>b) ? a : b)
+```
+Let's write it's equivalent if-else block pseudo code for this macro
+```c++
+max(a , b):
+	if a > b:
+		return a
+	else:
+		return b
+```
+
+In the code, we are invoking the macro as ```max(rand()%10 , 6);``` , so let's replace the value of ```a``` and ```b``` with ```rand()%10``` and ```6``` in the pseudo code.
+
+```c++
+max(a , b):
+	if rand()%10 > 6:
+		return rand()%10
+	else:
+		return 6
+```
+
+Do you see the problem now?
