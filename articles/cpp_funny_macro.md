@@ -1,0 +1,2 @@
+## Funny C++ puzzle
+hi
