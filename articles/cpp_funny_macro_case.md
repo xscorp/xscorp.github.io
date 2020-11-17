@@ -4,7 +4,7 @@ Hello everyone, this is [xscorp](https://twitter.com/xscorp7) and today, we will
 
 Let's have a look at the code below
 
-```c++
+```cpp
 #include<iostream>
 #define max(a,b) ((a>b) ? a : b)
 
