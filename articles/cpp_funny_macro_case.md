@@ -1,4 +1,4 @@
-# Funny C++ puzzle
+# A funny case of macro in C++
 
 Hello everyone, this is [xscorp](https://twitter.com/xscorp7) and today, we will be seeing a funny case of C++ macros.
 
