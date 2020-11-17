@@ -30,4 +30,24 @@ This macro simply returns the greater number among the passed arguments ```a``` 
 
 So let me ask you a question, **what is the minimum value of the variable ```number``` which is printed on the screen?**
 
-As per the line: ```c++ number = max(rand()%10 , 6);```, it should be 6 right?
+As per the below line presented in the code, it should be 6, right?: 
+```c++
+number = max(rand()%10 , 6);
+```
+Let's have a look at the output:
+
+```bash
+$ g++ code.cpp -o ./code
+$ ./code
+9
+6
+0
+6
+6
+3
+0
+6
+6
+6
+```
+df
