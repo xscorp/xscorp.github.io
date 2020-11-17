@@ -30,3 +30,4 @@ This macro simply returns the greater number among the passed arguments ```a``` 
 
 So let me ask you a question, **what is the minimum value of the variable ```number``` which is printed on the screen?**
 
+As per the line: ```c++ number = max(rand()%10 , 6);```, it should be 6 right?
