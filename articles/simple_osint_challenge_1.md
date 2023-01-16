@@ -1,4 +1,4 @@
-# Finding The "Yellow Plane"
+# Finding The "Yellow Ship"
 
 ![](/articles/media/yellow-plane-challenge-tweet.png)
 
