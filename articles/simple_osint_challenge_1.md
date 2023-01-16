@@ -1,3 +1,10 @@
+---
+title: Finding The "Yellow Ship"
+author:
+- name: xscorp
+---
+
+
 # Finding The "Yellow Ship"
 
 
