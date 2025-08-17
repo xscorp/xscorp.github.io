@@ -34,7 +34,7 @@ After a year, I was done with enough of machines, I bought the PWK(<b>Penetratio
 ## My PWK Lab experience and exam:
 Most of you are already aware about the new updated PWK 2020. Since most of the machines are updated, old forums are invalid for new boxes, so an entirely new PWK 2020 forum section is created. But sadly, not much people were enrolled in the new PWK. So there were less people and less threads related to boxes on the forum. My friends who were OSCP holders were not able to help me as they haven't done the updated machines. So I was all on my own. You can imagine from the below screenshot.
 
-<img src="/assets/img/convo.png" height="300"/>
+<img src="/assets/img/convo.png" alt="convo" height="300"/>
 
 ## Myth Busting
 And here comes the main part for which I have written this blog, Myth Busting.
