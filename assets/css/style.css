@@ -1,0 +1,7 @@
+
+/* Hide categories, tags, and archives from navigation */
+a[href="/categories/"],
+a[href="/tags/"],
+a[href="/archives/"] {
+  display: none !important;
+}
