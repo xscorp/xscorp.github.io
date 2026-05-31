@@ -11,7 +11,3 @@ Most of my work involves hunting for the gaps that others miss: misconfiguration
 I've been fortunate to speak at a few security conferences and contribute some open-source tools to the community. But honestly, the best part is the process: finding a vulnerability, understanding the root cause, and then building something that prevents it from happening again.
 
 When I'm not researching, you'll find me playing piano, kicking a football around, or diving into security concepts that interest me.
-
----
-
-[📄 Download Resume](/assets/resume.pdf){: .btn .btn-primary}

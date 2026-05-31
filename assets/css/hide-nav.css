@@ -1,0 +1,12 @@
+/* Hide categories, tags, and archives from navigation */
+.navbar-nav a[href="/categories/"],
+.navbar-nav a[href="/tags/"],
+.navbar-nav a[href="/archives/"],
+.sidebar a[href="/categories/"],
+.sidebar a[href="/tags/"],
+.sidebar a[href="/archives/"],
+[href="/categories/"].nav-link,
+[href="/tags/"].nav-link,
+[href="/archives/"].nav-link {
+  display: none !important;
+}
